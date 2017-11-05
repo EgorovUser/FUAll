@@ -1,0 +1,16 @@
+C:\Users\artem\source\repos\FUAll\FUAll\bin\Debug\FUAll.exe.config
+C:\Users\artem\source\repos\FUAll\FUAll\bin\Debug\FUAll.exe
+C:\Users\artem\source\repos\FUAll\FUAll\bin\Debug\FUAll.pdb
+C:\Users\artem\source\repos\FUAll\FUAll\obj\Debug\FUAll.csprojResolveAssemblyReference.cache
+C:\Users\artem\source\repos\FUAll\FUAll\obj\Debug\FUAll.Properties.Resources.resources
+C:\Users\artem\source\repos\FUAll\FUAll\obj\Debug\FUAll._About.resources
+C:\Users\artem\source\repos\FUAll\FUAll\obj\Debug\FUAll._Game.resources
+C:\Users\artem\source\repos\FUAll\FUAll\obj\Debug\FUAll._MainMenu.resources
+C:\Users\artem\source\repos\FUAll\FUAll\obj\Debug\FUAll._Rules.resources
+C:\Users\artem\source\repos\FUAll\FUAll\obj\Debug\FUAll._Settings.resources
+C:\Users\artem\source\repos\FUAll\FUAll\obj\Debug\FUAll._Statistic.resources
+C:\Users\artem\source\repos\FUAll\FUAll\obj\Debug\FUAll.csproj.GenerateResource.Cache
+C:\Users\artem\source\repos\FUAll\FUAll\obj\Debug\FUAll.csproj.CoreCompileInputs.cache
+C:\Users\artem\source\repos\FUAll\FUAll\obj\Debug\FUAll.exe
+C:\Users\artem\source\repos\FUAll\FUAll\obj\Debug\FUAll.pdb
+C:\Users\artem\source\repos\FUAll\FUAll\obj\Debug\FUAll._Parent.resources
